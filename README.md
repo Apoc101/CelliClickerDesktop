@@ -6,6 +6,7 @@ Windows install instructions:
 - Double click on CelliClickerMainView.exe
 - Enjoy!
 
+
 MacOS:
 
 REQUIREMENTS: Mono https://www.mono-project.com/download/stable/#download-mac
