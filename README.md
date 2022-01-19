@@ -3,7 +3,7 @@ Celli Clicker, an originally mobile clicker game, now ported to desktop.
 <br />
 <br />
 <br />
-!!TO DOWNLOAD: Change branch to "Release"!!
+<h>TO DOWNLOAD: Change branch to "Release"</h>
 <br />
 <br />
 <br />
