@@ -1,5 +1,5 @@
 # CelliClickerDesktop
-Celli Clicker, an originally mobile clicker game, now ported on desktop.
+Celli Clicker, an originally mobile clicker game, now ported to desktop.
 
 Still not finished:
 
