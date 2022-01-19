@@ -1,6 +1,6 @@
 # CelliClickerDesktop
-Celli Clicker - ORA SU DESKTOP!!
+Celli Clicker, an originally mobile clicker game, now ported on desktop.
 
-Check branches for windows and mac releases.
+Still not finished, trying to figure out serialization and all that business, so if you have any tips send em here: gabriel@gabmort.me
 
-Notice any flaws/bugs? Feel free to open an issue!
+Notice any bugs? Feel free to open an issue!
